@@ -1,0 +1,26 @@
+scm - source code mgt
+Git - Git is distribution repository tool
+SVN - Sub Version - 
+
+venucloser2u
+princemahesh
+
+Ex: No of projects/Different task 1,2,3 will handled by differ teams.
+
+Centrel repository:Differ teams can push
+Git-hub is centrel repository mgt.
+
+GIT is a software and git hub is a centrel repository.
+ 
+Differ B/w GIT & SVN
+
+SVN : Centrolisory repository mgt - not in local machine - not directly involve.
+GIT : Distribution repository mgt - local machine to Git - 3times more speed.
+
+Windows - Git.exe
+Linux - Yum.install.git
+Git is a open source
+
+Path; C:\Program Files\Git
+
+GUI Mode and Command Mode; only we use command  mode.

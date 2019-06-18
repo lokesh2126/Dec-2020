@@ -1,0 +1,31 @@
+DevOPs: Communication,collaboration and integration b/w Dev and Ops team to reduce time gap.
+
+Who involvs:
+Build Team
+Developers
+Release Team
+Systems Admins
+QA Team
+
+SCM:
+To stored the code with various versions.
+
+SCM Tools:
+
+SVN
+GIT
+
+Build Tool:
+
+By using build tool we will get the excutable file in different formats like jar.war and ear etc.
+
+
+WINSCP : SECURE COPY
+
+Windows to Linux and Linux to windows.
+
+BIOS:
+Virtualization - One physical server can act as a number of logical servers.
+
+OS: Interface b/w the User and Hardware.
+
